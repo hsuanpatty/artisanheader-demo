@@ -1167,7 +1167,7 @@ ul.drop-down-menu > li {
 
 .nav_box .sub_menu .sub_menu_box:first-child .sub_sub_menu_wrap.active,
 .nav_box .sub_menu .sub_menu_box .sub_sub_menu_wrap.active {
-    min-height: 420px;
+    min-height: 400px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
 
